@@ -1,6 +1,7 @@
 👋 Hi, I’m @carlos
 🌱 I’m currently learning Django 
 💞️ I'am getting all possible knownledge to starting building projects 
+
 📫 How to reach me: carlosjjavier05@gmail.com
 📱 Cellphone: (849) 849-1772
 🔗 LinkedIn: Carlos Enrique Javier de la Rosa
