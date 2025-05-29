@@ -1,34 +1,33 @@
-👋 Hi, I’m @carlos
-🌱 I’m currently learning Django 
-💞️ I'am getting all possible knownledge to starting building projects 
+# 👋 Hi, I’m @carlos
 
-📫 How to reach me: carlosjjavier05@gmail.com
-
-📱 Cellphone: (849) 849-1772
+* 🌱 I’m currently learning Django 
+* 💞️ I'am getting all possible knownledge to starting building projects 
+* 📫 How to reach me: carlosjjavier05@gmail.com
+* 📱 Cellphone: (849) 849-1772
 
 🔗 LinkedIn: Carlos Enrique Javier de la Rosa
 
-About Me:
+## About Me:
 
 Motivated to learn Django and become a full knownledge backend developer, and build my own project 
 
-🛠️ Skills:
+# 🛠️ Skills:
 
-🖥️ Languages: Python
-⚙️ Frameworks: Django (currently learning)
-🗂️ Code Versioning: Git, GitHub
-💾 Database: SQlite 
+* 🖥️ Languages: Python
+* ⚙️ Frameworks: Django (currently learning)
+* 🗂️ Code Versioning: Git, GitHub
+* 💾 Database: SQlite 
 
-🎓 Learning: 
+# 🎓 Learning: 
 
-📚 Currently exploring: Django, css, javascript 
-🌱 Focused on mastering backend scalability and API optimization.
+* 📚 Currently exploring: Django, css, javascript 
+* 🌱 Focused on mastering backend scalability and API optimization.
 
-🏆 Certifications:
+# 🏆 Certifications:
 
-Python for everyone (Universy of Michigan)
+* Python for everyone (Universy of Michigan)
 
-🌍 Languages:
+# 🌍 Languages:
 
-🇬🇧 English: Advanced
-🇪🇸 Spanish: Native
+* 🇬🇧 English: Advanced
+* 🇪🇸 Spanish: Native
