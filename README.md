@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Hi, I’m @carlos
+🌱 I’m currently learning Django 
+💞️ I'am getting all possible knownledge to starting building projects 
+📫 How to reach me: carlosjjavier05@gmail.com
+📱 Cellphone: (849) 849-1772
+🔗 LinkedIn: Carlos Enrique Javier de la Rosa
 
-<!--
-**javierd23/Javierd23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me:
+Motivated to learn Django and become a full knownledge backend developer, and build my own project 
 
-Here are some ideas to get you started:
+🛠️ Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥️ Languages: Python
+⚙️ Frameworks: Django (currently learning)
+🗂️ Code Versioning: Git, GitHub
+💾 Database: SQlite 
+
+🎓 Learning: 
+
+📚 Currently exploring: Django, css, javascript 
+🌱 Focused on mastering backend scalability and API optimization.
+
+🏆 Certifications:
+
+Python for everyone (Universy of Michigan)
+
+🌍 Languages:
+
+🇬🇧 English: Advanced
+🇪🇸 Spanish: Native
