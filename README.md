@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @carlos
 
-* 🌱 I’m currently learning Django 
-* 💞️ I'am getting all possible knownledge to starting building projects 
+* 🌱 Currently learning React and Node.js to enhance my frontend skills.
+* 💞️ Proficient in Django and actively working toward becoming a well-rounded full-stack developer.
 * 📫 How to reach me: carlosjjavier05@gmail.com
 * 📱 Cellphone: (849) 849-1772
 
@@ -9,23 +9,29 @@
 
 ## About Me:
 
-Motivated to learn Django and become a full knownledge backend developer, and build my own project 
+I'm a backend developer with a strong foundation in Python and Django, passionate about building scalable and secure web applications. Currently expanding my skill set by learning React and Node.js to transition into a full-stack development role. I value clean, maintainable code and enjoy solving real-world problems through technology. My goal is to contribute to impactful projects that blend performance, usability, and solid architecture.
 
 # 🛠️ Skills:
 
-* 🖥️ Languages: Python
-* ⚙️ Frameworks: Django (currently learning)
-* 🗂️ Code Versioning: Git, GitHub
-* 💾 Database: SQlite 
+* 🖥️ Backend Development: Python, Django, Django REST Framework, node.js (learning)
+* 🖥️ Frontend Development: HTML, CSS, JavaScript (in progress), React (learning)
+* ⚙️ Full-Stack Tools & Concepts: REST APIs, MVC architecture, Authentication & Authorization, CRUD operations
+* ⚙️ Frameworks: Django Rest Framework
+* 🗂️ Version Control: Git, GitHub
+* 🗂️ Other Tools: VS Code, Postman, Linux command line, Docker (basic)
+* 💾 Database: PostgreSQL, SQLite
 
 # 🎓 Learning: 
 
-* 📚 Currently exploring: Django, css, javascript 
-* 🌱 Focused on mastering backend scalability and API optimization.
+* 📚 Currently learning: Node.js and React. 
+* 🌱 Focused on mastering backend scalability, API optimization, full-stack developer.
 
 # 🏆 Certifications:
 
 * Python for everyone (Universy of Michigan)
+* Git and Github by Google.
+* Django for everyone (Universy of Michigan)
+* Javascript (Universy of Michigan)
 
 # 🌍 Languages:
 
